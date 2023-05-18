@@ -1,6 +1,5 @@
 //Algoritmo genético
-//Desarrollado por: Diego Rojas Asenjo
-//Github:https://github.com/DotPin/AG.git
+//Desarrollado por: Diego Ignacio Rojas Asenjo
 
 #define _USE_MATH_DEFINES       /*Permite importar las librerías matemáticas math.h*/
 #define tope 650
