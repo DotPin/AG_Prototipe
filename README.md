@@ -3,11 +3,17 @@
 ***
 ## Objetivo:
 
-- Mostrar el funcionamiento del algoritmo genético basado en un tipo de inteligencia artificial basada en la teoría básica biología.
+- Mostrar el funcionamiento del algoritmo genético basado en un tipo de inteligencia artificial con orientación en la teoría básica biológica de la evolución.
+- Algoritmo Genético desarrollado base el principio de la siguiente literatura:
+	- https://www.researchgate.net/file.PostFileLoader.html?id=5703bd8e4048546d0943c349&assetKey=AS%3A347504454455296%401459862926298
 
 ## Funcionamiento:
 
 - Desarrollo realizado en GNU Linux.
+- Cuenta con desarrollo propio de un proceso aleatorio determinista por máquina.
+- Cuenta con 3 distintos procesos de mutación.
+- Proceso de codificación de cromosomas es binario.
+
 
 ### Requisitos:
 
