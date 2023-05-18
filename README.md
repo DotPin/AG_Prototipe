@@ -12,7 +12,7 @@
 - Desarrollo realizado en GNU Linux.
 - Cuenta con desarrollo propio de un proceso aleatorio determinista por máquina.
 - Cuenta con 3 distintos procesos de mutación.
-- Proceso de codificación de cromosomas es binario.
+- Proceso de codificación cromosómica es binaria.
 
 
 ### Requisitos:
