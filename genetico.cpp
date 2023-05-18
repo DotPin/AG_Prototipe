@@ -24,7 +24,7 @@ using namespace std::chrono; // nanoseconds, system_clock, seconds
 
 //int epocas = 0;
 float pm=0.009;                             //probabilidad de mutacion  
-float pc=0.53;
+float pc=0.53;                              //probabilidad de cruzamiento
 int cantidad;             //Población de cromosomas a ejecutar
 float salida;
 int cnt_binaria=0;                          //cantidad de bits para cromosoma
