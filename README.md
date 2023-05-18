@@ -4,7 +4,7 @@
 ## Objetivo:
 
 - Mostrar el funcionamiento del algoritmo genético basado en un tipo de inteligencia artificial con orientación en la teoría básica biológica de la evolución.
-- Algoritmo Genético desarrollado base el principio de la siguiente literatura:
+- Algoritmo Genético base desarrollado bajo el principio de la siguiente literatura:
 	- https://www.researchgate.net/file.PostFileLoader.html?id=5703bd8e4048546d0943c349&assetKey=AS%3A347504454455296%401459862926298
 
 ## Funcionamiento:
