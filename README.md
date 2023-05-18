@@ -31,7 +31,7 @@
 	- Línea 31 valor de precisión en la cantidad binaria para los cromosomas.
 	- Delay para despliegue de datos línea 603-606.
 
-### Compilación:
+### Compilación y ejecución:
 
 - Abrir terminal y teclear en el directorio donde se encuentre la carpeta  "module" y el archivo "genetico.cpp"
 	- $g++ module/Aleatorio.cpp genetico.cpp -o archivo
