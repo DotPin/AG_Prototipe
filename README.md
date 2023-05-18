@@ -1,5 +1,9 @@
 # Prototipo inicial de Algoritmo Genético
 
+Algoritmo que dio inicio (2019) al proyecto de título para optar a la Ingeniería Civil en Informática, prototipo inicial que permitió optar al grado de ingeniero, logrando el proyecto deseado una vez terminado (2022), para iniciar la investigación.
+
+Se deja a dispocisión la versión de prototipo para mejoras que puedan ser sustantivas.
+
 ***
 ## Objetivo:
 
