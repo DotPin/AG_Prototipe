@@ -35,7 +35,7 @@
 - Para ejecutar, en terminal tipee:
 	- $./archivo
 
-- Solicitará la cantidad de indiviuos a usar y el grado de exigencia a minimizar con < 0.
+- Solicitará la cantidad de indiviuos a usar y el grado de exigencia a minimizar con valor < 0.
 
 
 
