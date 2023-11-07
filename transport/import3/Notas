@@ -1,0 +1,21 @@
+28/01/2022
+
+Herramienta usada para encontrar fuga de memoria:
+
+·Valgrind
+
+~Requisito:
+
+Para el proceso de compilacion es necesario utilizar las banderas de debugueo, así permitiendo a valgrind entregar detalladamente las líneas de código involucradas en el proceso en cuestión.
+
+Ejemplo:
+
+g++ -c archivo.cpp -o test1.o -O0 -g
+g++ -o exec -std=c11 -Wall -ggdb3 test1.o 
+
+~Comando utilizado:
+
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --verbose --log-file=test4.txt ./exec
+
+fuente: https://stackoverflow.com/questions/5134891/how-do-i-use-valgrind-to-find-memory-leaks
+
